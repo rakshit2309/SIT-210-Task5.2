@@ -12,7 +12,7 @@ GPIO.setup(15,GPIO.LOW)
 GPIO.setup(16,GPIO.LOW)
 
 win =tk.Tk()
-win.title("Rakshit GUI ")
+win.title("GUI by Rakshit ")
 win.geometry('800x800')
 
 def toggle_red():
